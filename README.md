@@ -110,22 +110,6 @@ pytest tests/
 
 ---
 
-## Model Evaluation & Live Zonaprop Testing
-
-Live asking prices from Zonaprop tested against the active model:
-
-| Property / Location | Barrio | Listed Price | App Valuation | Error (%) | Status |
-|:---|:---|:---:|:---:|:---:|:---:|
-| **French 2100** | Recoleta | USD 122.000 | **USD 123.700** | **+1.39%** | In Band |
-| **Soler 3800** | Palermo | USD 99.000 | **USD 96.400** | **-2.63%** | In Band |
-| **Charcas 3300** | Palermo | USD 95.000 | **USD 91.300** | **-3.89%** | In Band |
-| **Ravignani 2100 (Por Escalera)**| Palermo | USD 139.000 | **USD 138.100** | **-0.65%** | In Band |
-| **Concepción Arenal y Zapiola** | Palermo | USD 230.000 | **USD 229.600** | **-0.17%** | In Band |
-| **Santa Fe 2100** | Recoleta | USD 420.000 | **USD 420.800** | **+0.19%** | In Band |
-| **Arcos 1500** | Belgrano | USD 230.000 | **USD 232.200** | **+0.96%** | In Band |
-| **Azcuénaga 1500 (192 m²)** | Recoleta | USD 490.000 | **USD 581.800** | **+18.7%** | In Adaptive Band |
-
----
 
 ## License & Authors
 Developed for educational, research, and production-grade automated valuation analysis. Open-source under the MIT License.
