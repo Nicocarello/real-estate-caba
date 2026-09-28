@@ -1,0 +1,71 @@
+{
+    "model_name": "XGBoost Property Valuation Model (CABA) - Advanced Surface Damped",
+    "algorithm": "XGBRegressor with Non-Linear Surface Damping + TransformedTargetRegressor(log1p)",
+    "trained_date": "2026-09-28 16:32:35",
+    "train_samples": 45215,
+    "test_samples": 11304,
+    "features_count": 30,
+    "target_column": "target_price_usd",
+    "best_hyperparameters": {
+        "n_estimators": 250,
+        "max_depth": 8,
+        "learning_rate": 0.07,
+        "min_child_weight": 4,
+        "subsample": 0.85,
+        "colsample_bytree": 0.9,
+        "reg_alpha": 1.0,
+        "reg_lambda": 2.0
+    },
+    "test_metrics": {
+        "mae_usd": 32263.61,
+        "mae_ci_95": [
+            31275.39,
+            33264.07
+        ],
+        "rmse_usd": 61131.54,
+        "r2_score": 0.9063,
+        "r2_ci_95": [
+            0.8957,
+            0.9156
+        ],
+        "mdape_percent": 10.37,
+        "mdape_ci_95": [
+            10.17,
+            10.64
+        ]
+    },
+    "categorical_features": [
+        "barrio",
+        "property_type"
+    ],
+    "numerical_features": [
+        "lat",
+        "lon",
+        "rooms",
+        "bedrooms",
+        "bathrooms",
+        "surface_total",
+        "surface_covered",
+        "has_parking",
+        "has_pool",
+        "has_gym",
+        "has_security",
+        "has_parrilla",
+        "has_sum",
+        "is_a_estrenar",
+        "has_balcony",
+        "amenities_count",
+        "uncovered_surface",
+        "covered_ratio",
+        "is_monoambiente",
+        "avg_room_size",
+        "bathrooms_per_bedroom",
+        "rooms_per_bedroom",
+        "barrio_listing_freq",
+        "log_surface_total",
+        "log_surface_covered",
+        "is_large_property",
+        "surface_over_150",
+        "luxury_amenities_score"
+    ]
+}

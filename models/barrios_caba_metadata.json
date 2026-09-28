@@ -1,0 +1,287 @@
+{
+  "Abasto": {
+    "lat": -34.60389,
+    "lon": -58.410998,
+    "listing_freq": 203
+  },
+  "Agronomía": {
+    "lat": -34.59504,
+    "lon": -58.489309,
+    "listing_freq": 161
+  },
+  "Almagro": {
+    "lat": -34.605599,
+    "lon": -58.421322,
+    "listing_freq": 3099
+  },
+  "Balvanera": {
+    "lat": -34.609816,
+    "lon": -58.402113,
+    "listing_freq": 1438
+  },
+  "Barracas": {
+    "lat": -34.637381,
+    "lon": -58.37441,
+    "listing_freq": 646
+  },
+  "Barrio Norte": {
+    "lat": -34.593311,
+    "lon": -58.403118,
+    "listing_freq": 1794
+  },
+  "Belgrano": {
+    "lat": -34.56277,
+    "lon": -58.453659,
+    "listing_freq": 5168
+  },
+  "Boca": {
+    "lat": -34.633378,
+    "lon": -58.363134,
+    "listing_freq": 347
+  },
+  "Boedo": {
+    "lat": -34.626961,
+    "lon": -58.418375,
+    "listing_freq": 748
+  },
+  "Caballito": {
+    "lat": -34.618195,
+    "lon": -58.441485,
+    "listing_freq": 4405
+  },
+  "Catalinas": {
+    "lat": -34.600081,
+    "lon": -58.372566,
+    "listing_freq": 7
+  },
+  "Centro / Microcentro": {
+    "lat": -34.603268,
+    "lon": -58.378191,
+    "listing_freq": 222
+  },
+  "Chacarita": {
+    "lat": -34.586357,
+    "lon": -58.451016,
+    "listing_freq": 482
+  },
+  "Coghlan": {
+    "lat": -34.560968,
+    "lon": -58.474928,
+    "listing_freq": 484
+  },
+  "Colegiales": {
+    "lat": -34.577053,
+    "lon": -58.450485,
+    "listing_freq": 1098
+  },
+  "Congreso": {
+    "lat": -34.609821,
+    "lon": -58.392606,
+    "listing_freq": 452
+  },
+  "Constitución": {
+    "lat": -34.625408,
+    "lon": -58.385952,
+    "listing_freq": 324
+  },
+  "Flores": {
+    "lat": -34.629318,
+    "lon": -58.463214,
+    "listing_freq": 1991
+  },
+  "Floresta": {
+    "lat": -34.630577,
+    "lon": -58.484644,
+    "listing_freq": 826
+  },
+  "Las Cañitas": {
+    "lat": -34.56909,
+    "lon": -58.433525,
+    "listing_freq": 299
+  },
+  "Liniers": {
+    "lat": -34.643715,
+    "lon": -58.520383,
+    "listing_freq": 499
+  },
+  "Mataderos": {
+    "lat": -34.654825,
+    "lon": -58.503021,
+    "listing_freq": 512
+  },
+  "Monserrat": {
+    "lat": -34.614607,
+    "lon": -58.383596,
+    "listing_freq": 724
+  },
+  "Monte Castro": {
+    "lat": -34.620674,
+    "lon": -58.505338,
+    "listing_freq": 352
+  },
+  "Nuñez": {
+    "lat": -34.548223,
+    "lon": -58.465905,
+    "listing_freq": 1835
+  },
+  "Once": {
+    "lat": -34.606492,
+    "lon": -58.404844,
+    "listing_freq": 379
+  },
+  "Palermo": {
+    "lat": -34.582549,
+    "lon": -58.423765,
+    "listing_freq": 7861
+  },
+  "Parque Avellaneda": {
+    "lat": -34.644897,
+    "lon": -58.478008,
+    "listing_freq": 177
+  },
+  "Parque Centenario": {
+    "lat": -34.606022,
+    "lon": -58.434504,
+    "listing_freq": 142
+  },
+  "Parque Chacabuco": {
+    "lat": -34.637891,
+    "lon": -58.438364,
+    "listing_freq": 847
+  },
+  "Parque Chas": {
+    "lat": -34.58505,
+    "lon": -58.477935,
+    "listing_freq": 160
+  },
+  "Parque Patricios": {
+    "lat": -34.634029,
+    "lon": -58.403091,
+    "listing_freq": 318
+  },
+  "Paternal": {
+    "lat": -34.602758,
+    "lon": -58.465706,
+    "listing_freq": 467
+  },
+  "Pompeya": {
+    "lat": -34.643158,
+    "lon": -58.414185,
+    "listing_freq": 317
+  },
+  "Puerto Madero": {
+    "lat": -34.613151,
+    "lon": -58.362056,
+    "listing_freq": 839
+  },
+  "Recoleta": {
+    "lat": -34.592116,
+    "lon": -58.395261,
+    "listing_freq": 3503
+  },
+  "Retiro": {
+    "lat": -34.59632,
+    "lon": -58.378532,
+    "listing_freq": 565
+  },
+  "Saavedra": {
+    "lat": -34.552084,
+    "lon": -58.482693,
+    "listing_freq": 1003
+  },
+  "San Cristobal": {
+    "lat": -34.623337,
+    "lon": -58.400395,
+    "listing_freq": 774
+  },
+  "San Nicolás": {
+    "lat": -34.603599,
+    "lon": -58.38347,
+    "listing_freq": 602
+  },
+  "San Telmo": {
+    "lat": -34.621725,
+    "lon": -58.374001,
+    "listing_freq": 815
+  },
+  "Tribunales": {
+    "lat": -34.602646,
+    "lon": -58.385359,
+    "listing_freq": 118
+  },
+  "Velez Sarsfield": {
+    "lat": -34.631404,
+    "lon": -58.493028,
+    "listing_freq": 114
+  },
+  "Versalles": {
+    "lat": -34.629273,
+    "lon": -58.520946,
+    "listing_freq": 240
+  },
+  "Villa Crespo": {
+    "lat": -34.598237,
+    "lon": -58.441209,
+    "listing_freq": 2524
+  },
+  "Villa Devoto": {
+    "lat": -34.60424,
+    "lon": -58.511566,
+    "listing_freq": 1285
+  },
+  "Villa General Mitre": {
+    "lat": -34.610789,
+    "lon": -58.469454,
+    "listing_freq": 226
+  },
+  "Villa Lugano": {
+    "lat": -34.677981,
+    "lon": -58.474147,
+    "listing_freq": 329
+  },
+  "Villa Luro": {
+    "lat": -34.63852,
+    "lon": -58.501176,
+    "listing_freq": 544
+  },
+  "Villa Ortuzar": {
+    "lat": -34.582608,
+    "lon": -58.469228,
+    "listing_freq": 274
+  },
+  "Villa Pueyrredón": {
+    "lat": -34.584903,
+    "lon": -58.502935,
+    "listing_freq": 613
+  },
+  "Villa Real": {
+    "lat": -34.620259,
+    "lon": -58.524608,
+    "listing_freq": 84
+  },
+  "Villa Riachuelo": {
+    "lat": -34.691476,
+    "lon": -58.469827,
+    "listing_freq": 11
+  },
+  "Villa Santa Rita": {
+    "lat": -34.61548,
+    "lon": -58.4812,
+    "listing_freq": 255
+  },
+  "Villa Soldati": {
+    "lat": -34.662295,
+    "lon": -58.442777,
+    "listing_freq": 46
+  },
+  "Villa Urquiza": {
+    "lat": -34.57367,
+    "lon": -58.485982,
+    "listing_freq": 2719
+  },
+  "Villa del Parque": {
+    "lat": -34.605492,
+    "lon": -58.488707,
+    "listing_freq": 1233
+  }
+}

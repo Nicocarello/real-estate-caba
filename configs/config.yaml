@@ -1,0 +1,55 @@
+# Model and Pipeline Configuration
+
+project_name: properati_real_estate_valuation
+version: 1.0.0
+
+paths:
+  raw_data: "data/raw/ar_properties_crude.csv"
+  interim_data: "data/interim/properties_cleaned.parquet"
+  processed_data: "data/processed/properties_model_ready.parquet"
+  model_artifact: "models/best_property_pricing_model.joblib"
+
+data:
+  country_filter: "Argentina"
+  id_column: "id"
+  target_column: "price"
+  location_mapping:
+    l1: "country"
+    l2: "province"
+    l3: "state"
+    l4: "neighbourhood"
+
+features:
+  categorical:
+    - "property_type"
+    - "operation_type"
+    - "province"
+    - "state"
+  numerical:
+    - "surface_total"
+    - "surface_covered"
+    - "rooms"
+    - "bedrooms"
+    - "bathrooms"
+    - "lat"
+    - "lon"
+  drop_columns:
+    - "id"
+    - "title"
+    - "description"
+    - "start_date"
+    - "end_date"
+    - "created_on"
+    - "currency"
+
+model:
+  type: "random_forest"
+  hyperparameters:
+    n_estimators: 100
+    max_depth: 20
+    min_samples_split: 5
+    random_state: 42
+  validation:
+    test_size: 0.2
+    n_splits: 5
+    metric: "rmse"
