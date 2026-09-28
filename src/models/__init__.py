@@ -1,10 +1,8 @@
-from .train import train_model, evaluate_regression_model, save_pipeline
+from .appraiser import PropertyAppraiser
 from .predict import load_pipeline, predict
 
 __all__ = [
-    "train_model",
-    "evaluate_regression_model",
-    "save_pipeline",
+    "PropertyAppraiser",
     "load_pipeline",
     "predict",
 ]
